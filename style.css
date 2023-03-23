@@ -1,0 +1,152 @@
+*{
+margin: 0px;
+
+
+
+
+}
+.container{
+width: 1890px;
+height: 2215px;
+@media screen {
+   max-width:800px;
+}
+
+
+}
+.first{
+height: 805px;
+width: 100%;
+background-image: url(img/head.jpg);
+background-size: cover;
+display: flex;
+align-items: center;
+justify-content: center;
+flex-direction: column;
+}
+.frture{
+font-size: 85px;
+color: white;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+text-align: center;
+}
+
+
+
+.aboba{
+width: 130px;
+height: 45px;
+background-color: rgb(201, 200, 200);
+border-radius: 15px;
+text-align: center;
+display: flex;
+align-items: center;
+justify-content: center;
+text-decoration: none;
+
+}
+.frf{
+text-decoration: none;
+color: aqua;
+
+
+
+}
+.bum{
+    text-decoration: none;
+
+
+
+}
+.dude{
+width:130px ;
+height: 90px;
+display: flex;
+align-items: end;
+
+
+}
+.second{
+height: 1220px;
+width: 100%;
+display: flex;
+justify-content: space-around;
+flex-wrap: wrap;
+}
+.gugu{
+width: 410px;
+height: 570px;
+border-radius: 60px;
+border: red solid;
+display: flex;
+flex-direction: column;
+align-items: center;
+
+}
+.glas{
+height: 190px;
+width: 100%;
+border-radius:  60px 60px 0px 0px;
+
+
+}
+.rer{
+    border-radius: 60px 60px 0px 0px;
+
+
+
+
+
+}
+.text{
+height: 380px;
+border-radius: 0px 0px 60px 60px;
+width: 80%;
+display: flex;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+
+}
+.retro{
+    margin-top: 30px;
+
+
+
+
+}
+.bvt{
+
+
+
+
+
+
+}
+.browl{
+
+display: flex;
+justify-content: space-between;
+margin-top: 55px;
+align-items: center;
+gap: 20px;
+    
+}
+.free{
+color: aqua;
+
+
+
+
+
+
+}
+.third{
+height: 190px;
+width: 100%;
+display: flex;
+justify-content: space-around;
+background-color: rgb(255, 123, 0);
+align-items: center;
+color: white;
+}
